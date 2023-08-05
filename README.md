@@ -1,7 +1,7 @@
-### Hi there 👋
+Hi there, This is XPH 👋 ![Visitor Count](https://profile-counter.glitch.me/XPHXPHL/count.svg)
 
 <!--
-**XPHXPHL/XPHXPHL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**XPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=XPHXPHL&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
