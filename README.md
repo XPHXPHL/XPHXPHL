@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 我正在学习什么语言
+- KotLin
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=XPHXPHL&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
