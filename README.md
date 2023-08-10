@@ -10,16 +10,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=XPHXPHL&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+
 
 ### Hi there 👋 I'm XiaoPoHai
 - 🌱 I’m learning Android,Kotlin
 - 📫 Email: 2262519065@qq.com
 
-
-### Use Language
-![XPH's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=XPHXPHL&show_icons=true&count_private=true&theme=gotham)
-
+### GitHub stats
+[![XPHXPHL's GitHub stats](https://github-readme-stats.vercel.app/api?username=XPHXPHL)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
