@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 
 ### Use Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XPHXPHL&layout=compact)](https://github.com/XPHXPHL/github-readme-stats)
+![XPH's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=XPHXPHL&show_icons=true&count_private=true&theme=gotham)
+
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
