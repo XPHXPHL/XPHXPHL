@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="(https://github-readme-stats.vercel.app/api?username=XPHXPHL)](https://github.com/anuraghazra/github-readme-stats)
-" />
+-->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=XPHXPHL&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 ### Hi there 👋 I'm XiaoPoHai
 - 🌱 I’m learning Android,Kotlin
