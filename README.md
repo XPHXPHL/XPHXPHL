@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - 🌱 I’m learning Android,Kotlin
 - 📫 Email: 2262519065@qq.com
 
-### GitHub stats
-[![XPHXPHL's GitHub stats](https://github-readme-stats.vercel.app/api?username=XPHXPHL)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
@@ -34,6 +31,9 @@ Here are some ideas to get you started:
 ![Xiaomi 10Pro](https://img.shields.io/badge/Xiaomi10Pro-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Xiaomi Mix 2s](https://img.shields.io/badge/MIX2s-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 
+
+### GitHub Stats
+[![XPHXPHL's GitHub stats](https://github-readme-stats.vercel.app/api?username=XPHXPHL)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎵 Spotify
 ![card](https://github.com/XPHXPHL/netease-cloud-music-card/blob/main/card.svg)
