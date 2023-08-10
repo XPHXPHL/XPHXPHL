@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - KotLin
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=XPHXPHL&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
+![card](https://github.com/XPHXPHL/netease-cloud-music-card/blob/main/card.svg)
