@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 
+### Online Time
+![Visitor Count](https://profile-counter.glitch.me/XPHXPHL/count.svg)
+
 ### 📱 Devices
 ![OnePlus Ace Pro](https://img.shields.io/badge/OnePlusAcePro-4F4F4F?style=flat-square&logo=OnePlus&logoColor=FFFFFF&labelColor=4F4F4F)
 ![Redmi K30S Ultra](https://img.shields.io/badge/RedmiK30SUltra-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=4F4F4F)
@@ -32,5 +35,3 @@ Here are some ideas to get you started:
 ### 🎵 Spotify
 ![card](https://github.com/XPHXPHL/netease-cloud-music-card/blob/main/card.svg)
 
-### Online Time
-![Visitor Count](https://profile-counter.glitch.me/XPHXPHL/count.svg)
