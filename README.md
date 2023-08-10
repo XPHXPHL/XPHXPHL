@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/XPHXPHL/count.svg)
 
 ### 📱 Devices
-![OnePlus Ace Pro](https://img.shields.io/badge/OnePlusAcePro-4F4F4F?style=flat-square&logo=OnePlus&logoColor=FFFFFF&labelColor=ED9121)
+![OnePlus Ace Pro](https://img.shields.io/badge/OnePlusAcePro-4F4F4F?style=flat-square&logo=OnePlus&logoColor=FFFFFF&labelColor=FF0000)
 ![Redmi K30S Ultra](https://img.shields.io/badge/RedmiK30SUltra-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Redmi K40S](https://img.shields.io/badge/RedmiK40S-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Redmi K30 5G](https://img.shields.io/badge/RedmiK305G-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
