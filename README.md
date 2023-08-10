@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 ## 我正在学习什么语言
 - KotLin
 
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=XPHXPHL&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=XPHXPHL&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+
 ![card](https://github.com/XPHXPHL/netease-cloud-music-card/blob/main/card.svg)
