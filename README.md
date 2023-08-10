@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 Email: 2262519065@qq.com
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XPHXPHL&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XPHXPHL&layout=compact)](https://github.com/XPHXPHL/github-readme-stats)
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
