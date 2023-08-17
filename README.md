@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m learning Android,Kotlin
 - 📫 Email: 2262519065@qq.com
 
-![XPH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ＸＰＨＸＰＨＬ&show_icons=true&theme=radical)
+[![XPH's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=XPHXPHL&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
