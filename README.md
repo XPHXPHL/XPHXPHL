@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 I'm XiaoPoHai
 - 🌱 I’m learning Android,Kotlin
 - 📫 Email: 2262519065@qq.com
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=XPHXPHL&hide=issues&show_icons=true&include_all_commits=true&theme=vue&count_private=true" />
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
