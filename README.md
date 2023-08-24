@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ![Redmi K40S](https://img.shields.io/badge/RedmiK40S-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Redmi K30 5G](https://img.shields.io/badge/RedmiK305G-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Xiaomi 10Pro](https://img.shields.io/badge/Xiaomi10Pro-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
+![Xiaomi 12X](https://img.shields.io/badge/Xiaomi12X-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 
 
 ### 🎵 Spotify
