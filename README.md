@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Redmi K30S Ultra](https://img.shields.io/badge/RedmiK30SUltra-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Redmi K40S](https://img.shields.io/badge/RedmiK40S-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Redmi K30 5G](https://img.shields.io/badge/RedmiK305G-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi Note 12 Turbo-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
+![Redmi Note 12 Turbo](https://img.shields.io/badge/RedmiNote12Turbo-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Xiaomi 12X](https://img.shields.io/badge/Xiaomi12X-4F4F4F?style=flat-square&logo=Xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 
 
